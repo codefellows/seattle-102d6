@@ -8,7 +8,7 @@ In this course you will build a strong software development foundation and learn
 ### Instructional Staff
 Instructor: Ryan Gallaway,  email: ryan@codefellows.com, slack: @ryan
 
-[link to Canvas](https://canvas.instructure.com/courses/1725061)
+[link to Canvas](https://canvas.instructure.com/courses/1741587)
 ### Tips for Success
 - Get ready to tackle some seriously ambitious material! You'll have the most success if you:
 - Take notes during class.
