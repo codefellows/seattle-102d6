@@ -72,7 +72,11 @@ function whileDemo(){
 }
 
 function forDemo(){
-  for (var i = 1; i <+ 12; i = i + 4){
+  for (var i = 1; i <= 12; i = i + 4){
     console.log(i);
   }
+}
+
+function makeCoffee(userName, bean, milk, flavor){
+  return 'Here you go, ' + userName + ' ' + 'your ' + bean + ' ' + milk +  ' ' + flavor + ' latte is ready';
 }
