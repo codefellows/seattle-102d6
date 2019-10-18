@@ -42,8 +42,6 @@ var howMany = function (){
 function getItem() {
   var order = prompt('will you buy a house or hotel');
   var item;
-  // var order = getCount();
-  // var message;
 
   if (order === 'house') {
     item = '<img src="images/house.png">';
@@ -65,11 +63,16 @@ function showOrder(){
   return result;
 }
 
-function lister(){
-  console.log('red');
+function whileDemo(){
+  var answer = prompt('Do you understand while loops?');
+
+  while (answer !== 'yes'){
+    var answer = prompt('Do you understand while loops? Here\'s another try!');
+  }
 }
 
-var parameterLister = function(color){
-  var message = 'your color is ' + color;
-  return message;
+function forDemo(){
+  for (var i = 1; i <+ 12; i = i + 4){
+    console.log(i);
+  }
 }
